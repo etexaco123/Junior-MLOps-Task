@@ -3,6 +3,7 @@ from pydantic import BaseModel
 from model import Handler
 from typing import List
 
+
 # See https://fastapi.tiangolo.com/tutorial/first-steps/ for more general information on FastAPI
 app: FastAPI = FastAPI()
 
