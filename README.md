@@ -85,3 +85,10 @@ Please email the zip file to
 For questions about the task (can be any simple question!), please reach out to:
 
 - `job.formsma@springernature.com`
+
+## Methodology
+- Created a virtual environment
+- Downloaded the code
+- Added the code to app.py
+- Created git ignore file to stop the site-pakages from been uploaded
+- Packages used include the pydantic Base Model, FastAPI, model Handler .
